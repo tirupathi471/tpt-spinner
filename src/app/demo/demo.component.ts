@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { TptSpinnerManager } from '../tpt-spinner/tpt-spinner.manager';
+import { TptSpinnerManager } from 'projects/tpt-spinner/src/public-api';
 
 @Component({
   selector: 'app-demo',

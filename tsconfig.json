@@ -17,6 +17,20 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "spinner": [
+        "dist/spinner"
+      ],
+      "spinner/*": [
+        "dist/spinner/*"
+      ],
+      "tpt-spinner": [
+        "dist/tpt-spinner"
+      ],
+      "tpt-spinner/*": [
+        "dist/tpt-spinner/*"
+      ]
+    }
   }
 }

@@ -1,0 +1,23 @@
+{
+  "name": "tpt-spinner",
+  "version": "1.0.5",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tirupathi471/tpt-spinner1/"
+  },
+  "bugs": {
+    "url": "https://github.com/tirupathi471/tpt-spinner1/issues"
+  },
+  "keywords": [
+    "angular",
+    "angular-spinner",
+    "spinner",
+    "tpt",
+    "tpt-spinner1"
+  ],
+  "author": "Tirupathi Temburu"
+}
