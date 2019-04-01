@@ -4,7 +4,11 @@ Angular 7 spinner.
 # keywords [![NPM version](https://badge.fury.io/js/tpt-spinner.svg)](http://badge.fury.io/js/tpt-spinner)
 
 
-> CLI utility for easily adding keywords to package.json.
+> Its good component for angular spinner where you can use default spinner or you can inject the template through ng-template. Default spinner is
+<p align="center">
+  <img src="src/assets/images/default spinner.gif" width="350" title="hover text">
+</p>
+If you want to customize it please use ng-template 
 
 ## Install
 ### Install with [npm](npmjs.org):
@@ -17,7 +21,7 @@ npm i tpt-spinner
 
 Add <tpt-spinner></tpt-spinner> tag in app component. and import TptSpinnerModule in Root module (appModule)
 
-Injuct TptSpinnerManager in where ever you want to toggle spinner
+Inject TptSpinnerManager in where ever you want to toggle spinner
 ```bash
 constructor(private spinnerManager: TptSpinnerManager) { }
 this.spinnerManager.show();
