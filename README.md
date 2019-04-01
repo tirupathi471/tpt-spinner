@@ -39,7 +39,7 @@ this.spinnerManager.hide();
 ```
 ## Author
 
-**Jon Schlinkert**
+**Tirupathi Temburu**
  
 + [github/tirupathi471](https://github.com/tirupathi471)
 + [twitter/ThisZTirupathi](http://twitter.com/ThisZTirupathi) 
