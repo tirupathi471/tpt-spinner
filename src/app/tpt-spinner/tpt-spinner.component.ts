@@ -6,7 +6,7 @@ import { TptSpinnerManager } from './tpt-spinner.manager';
   templateUrl: './tpt-spinner.component.html',
   styleUrls: ['./tpt-spinner.component.scss']
 })
-export class TptSpinnerComponent implements OnInit {
+export class TptSpinner implements OnInit {
   @Input() width = 130;
   @Input() height = 130;
   @Input() spinnerURL = '/assets/images/tpt-spinner-img.gif';

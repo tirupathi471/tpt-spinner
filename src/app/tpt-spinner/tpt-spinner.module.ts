@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { TptSpinnerComponent } from './tpt-spinner.component';
+import { TptSpinner } from './tpt-spinner.component';
 import { TptSpinnerManager } from './tpt-spinner.manager';
 
 @NgModule({
   declarations: [
-    TptSpinnerComponent
+    TptSpinner
   ],
   imports: [
     CommonModule
@@ -14,7 +14,7 @@ import { TptSpinnerManager } from './tpt-spinner.manager';
     TptSpinnerManager
   ],
   exports: [
-    TptSpinnerComponent
+    TptSpinner
   ]
 })
 export class TptSpinnerModule { }
