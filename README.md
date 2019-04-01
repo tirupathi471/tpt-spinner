@@ -1,9 +1,6 @@
-# tpt-spinner
-Angular 7 spinner.
+# tpt-spinner [![NPM version](https://badge.fury.io/js/tpt-spinner.svg)](http://badge.fury.io/js/tpt-spinner)
 
-# keywords [![NPM version](https://badge.fury.io/js/tpt-spinner.svg)](http://badge.fury.io/js/tpt-spinner)
-
-
+>Angular 7 spinner.
 > Its good component for angular spinner where you can use default spinner or you can inject the template through ng-template. Default spinner is
 <p align="center">
   <img src="src/assets/images/default spinner.gif" width="350" title="hover text">
