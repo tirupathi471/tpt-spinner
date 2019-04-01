@@ -10,7 +10,7 @@ Angular 7 spinner.
 ### Install with [npm](npmjs.org):
 
 ```bash
-npm i -g tpt-spinner
+npm i tpt-spinner
 ```
 
 ### Basic Usage
